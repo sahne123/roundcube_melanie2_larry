@@ -9,7 +9,7 @@
  * by keeping credits to the original autors in the README file.
  * See http://creativecommons.org/licenses/by-sa/3.0/ for details.
  */
- 
+
  /**
  * Roundcube webmail styles for skin "Mélanie2 Larry"
  *
@@ -98,6 +98,10 @@ a.button,
 	background: #005d76;
 }
 
+.minimal #topnav {
+  height: 42px;
+}
+
 .minimal #taskbar a {
 	padding: 10px 8px 0 8px;
 }
@@ -127,7 +131,6 @@ a.button,
 }
 
 #taskbar a.button-selected span.button-inner {
-	font-weight: bold;
 	color: rgb(55, 101, 114);
 }
 
