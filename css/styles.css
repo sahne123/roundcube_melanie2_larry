@@ -488,3 +488,15 @@ ul.toolbarmenu li span.icon,
     background: #FFF;
     margin-top: 0.8em;
 }
+
+.folderlist {
+		font-size: 90%;
+}
+
+.folderlist li {
+	border-top: 1px solid #E9E9E9;
+}
+
+.folderlist li.virtual {
+	padding-bottom: 0;
+}
